@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/heychaman/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/heychaman/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/heychaman/leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/heychaman/leetcode/tree/master/0120-triangle) |
 ## String
 |  |
 | ------- |
@@ -50,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/heychaman/leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/heychaman/leetcode/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
