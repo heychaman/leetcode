@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/heychaman/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/heychaman/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/heychaman/leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/heychaman/leetcode/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/heychaman/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/heychaman/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/heychaman/leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/heychaman/leetcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/heychaman/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Stack
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/heychaman/leetcode/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/heychaman/leetcode/tree/master/0561-array-partition) |
 ## Depth-First Search
 |  |
