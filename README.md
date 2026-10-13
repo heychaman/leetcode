@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/heychaman/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/heychaman/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/heychaman/leetcode/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/heychaman/leetcode/tree/master/0415-add-strings) |
 ## Trie
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/heychaman/leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/heychaman/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/heychaman/leetcode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/heychaman/leetcode/tree/master/0415-add-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/heychaman/leetcode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/heychaman/leetcode/tree/master/0415-add-strings) |
 ## Queue
 |  |
 | ------- |
