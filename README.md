@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/heychaman/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/heychaman/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/heychaman/leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/heychaman/leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/heychaman/leetcode/tree/master/0415-add-strings) |
 ## Trie
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/heychaman/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/heychaman/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/heychaman/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/heychaman/leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/heychaman/leetcode/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/heychaman/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/heychaman/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/heychaman/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/heychaman/leetcode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
