@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/heychaman/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/heychaman/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/heychaman/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/heychaman/leetcode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/heychaman/leetcode/tree/master/0561-array-partition) |
 ## String
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/heychaman/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/heychaman/leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/heychaman/leetcode/tree/master/0415-add-strings) |
+| [0500-keyboard-row](https://github.com/heychaman/leetcode/tree/master/0500-keyboard-row) |
 ## Trie
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/heychaman/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/heychaman/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/heychaman/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/heychaman/leetcode/tree/master/0500-keyboard-row) |
 ## Stack
 |  |
 | ------- |
