@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/heychaman/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/heychaman/leetcode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/heychaman/leetcode/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/heychaman/leetcode/tree/master/0566-reshape-the-matrix) |
 ## String
 |  |
 | ------- |
@@ -155,11 +156,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/heychaman/leetcode/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/heychaman/leetcode/tree/master/0566-reshape-the-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/heychaman/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/heychaman/leetcode/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/heychaman/leetcode/tree/master/0566-reshape-the-matrix) |
 ## Queue
 |  |
 | ------- |
