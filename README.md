@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/heychaman/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/heychaman/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/heychaman/leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/heychaman/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/heychaman/leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/heychaman/leetcode/tree/master/0566-reshape-the-matrix) |
 ## String
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/heychaman/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/heychaman/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/heychaman/leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/heychaman/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/heychaman/leetcode/tree/master/0561-array-partition) |
 ## Binary Search
 |  |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/heychaman/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/heychaman/leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
