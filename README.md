@@ -26,12 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/heychaman/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/heychaman/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/heychaman/leetcode/tree/master/0485-max-consecutive-ones) |
-| [0496-next-greater-element-i](https://github.com/heychaman/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/heychaman/leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/heychaman/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/heychaman/leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/heychaman/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/heychaman/leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/heychaman/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## String
 |  |
 | ------- |
@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/heychaman/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/heychaman/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/heychaman/leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/heychaman/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,14 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/heychaman/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/heychaman/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/heychaman/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-| [0496-next-greater-element-i](https://github.com/heychaman/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/heychaman/leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/heychaman/leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/heychaman/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/heychaman/leetcode/tree/master/0020-valid-parentheses) |
-| [0496-next-greater-element-i](https://github.com/heychaman/leetcode/tree/master/0496-next-greater-element-i) |
 ## String Matching
 |  |
 | ------- |
@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/heychaman/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/heychaman/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/heychaman/leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/heychaman/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -178,8 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/heychaman/leetcode/tree/master/0506-relative-ranks) |
-## Monotonic Stack
+## Sliding Window
 |  |
 | ------- |
-| [0496-next-greater-element-i](https://github.com/heychaman/leetcode/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/heychaman/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
