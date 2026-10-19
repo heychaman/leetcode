@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/heychaman/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/heychaman/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/heychaman/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/heychaman/leetcode/tree/master/0605-can-place-flowers) |
 ## String
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/heychaman/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/heychaman/leetcode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/heychaman/leetcode/tree/master/0605-can-place-flowers) |
 ## Counting Sort
 |  |
 | ------- |
